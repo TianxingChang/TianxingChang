@@ -4,5 +4,5 @@ This is Terry Chang. I'm a final year student @[HKUST](https://hkust.edu.hk/) [I
 
 - 🔭 I’m currently working on Graph, Data Mining and Recommendation System.
 - 🌱 I’m a football fan. I support Barcelona and Man City.
-- ⚡ My Website: [www.terry-chang.space]
+- ⚡ My Website: [terry-chang.space]
 
