@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-This is Terry Chang. I'm a final year student @[HKUST](https://hkust.edu.hk/) [ISD](https://isd.hkust.edu.hk/) and my minor is Big Data Techology.
+This is Terry Chang. 
 
-- 🔭 I’m currently working on Graph, Data Mining and Recommender System.
-- 🌱 I’m a football fan. I support Barcelona and Man City.
-- ⚡ My Website: [https://terrychang.space]
-
+Yeah, that's all. Just a person.
