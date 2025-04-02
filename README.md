@@ -2,4 +2,5 @@
 
 This is Terry Chang. 
 
-Cognitive Alignment for Human.
+
+==> Cognitive Alignment for Human.
